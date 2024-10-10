@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/8bf6624a40d44388a9c2d4ad372a1a18/artifacts
+end_time: 1728238383016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bf6624a40d44388a9c2d4ad372a1a18
+run_name: whimsical-shark-788
+run_uuid: 8bf6624a40d44388a9c2d4ad372a1a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238382227
+status: 4
+tags: []
+user_id: bradk

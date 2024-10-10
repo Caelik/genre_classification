@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/765cc068cb794533beedd32fe71540b2/artifacts
+end_time: 1728530247333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 765cc068cb794533beedd32fe71540b2
+run_name: adorable-fawn-725
+run_uuid: 765cc068cb794533beedd32fe71540b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530237019
+status: 4
+tags: []
+user_id: bradk

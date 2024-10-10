@@ -85,7 +85,7 @@ def go(config: DictConfig):
         model_config = os.path.abspath("random_forest_config.yml")
 
         with open(model_config, "w+") as fp:
-            fp.write(OmegaConf.to_yaml(config["random_forest_pipeline"]))
+            fp.write(OmegaConf.to_yaml(config["random_forest_pipeline"]['random_forest']))
 
         _ = mlflow.run(
             os.path.join(root_path, "random_forest"),

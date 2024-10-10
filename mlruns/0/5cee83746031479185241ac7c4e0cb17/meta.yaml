@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/5cee83746031479185241ac7c4e0cb17/artifacts
+end_time: 1728529584169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cee83746031479185241ac7c4e0cb17
+run_name: unruly-smelt-893
+run_uuid: 5cee83746031479185241ac7c4e0cb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728529582357
+status: 4
+tags: []
+user_id: bradk

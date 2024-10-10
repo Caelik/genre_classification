@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/fea2df99a524484f8357a4c61828026f/artifacts
+end_time: 1728528692074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fea2df99a524484f8357a4c61828026f
+run_name: skillful-turtle-498
+run_uuid: fea2df99a524484f8357a4c61828026f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728528660405
+status: 4
+tags: []
+user_id: bradk

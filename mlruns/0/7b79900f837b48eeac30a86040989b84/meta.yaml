@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/7b79900f837b48eeac30a86040989b84/artifacts
+end_time: 1728526589974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b79900f837b48eeac30a86040989b84
+run_name: glamorous-squid-279
+run_uuid: 7b79900f837b48eeac30a86040989b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728526588474
+status: 4
+tags: []
+user_id: bradk

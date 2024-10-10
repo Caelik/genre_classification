@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/8f51c9a39b1a4239bb929fc504f8068e/artifacts
+end_time: 1728530839948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f51c9a39b1a4239bb929fc504f8068e
+run_name: fortunate-deer-677
+run_uuid: 8f51c9a39b1a4239bb929fc504f8068e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530830427
+status: 3
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/31d3f714f6674c6a911ca798e84f5a49/artifacts
+end_time: 1728241299277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31d3f714f6674c6a911ca798e84f5a49
+run_name: invincible-pug-160
+run_uuid: 31d3f714f6674c6a911ca798e84f5a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728241289330
+status: 3
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/6cfee013aca84ab0996b0f263d13d832/artifacts
+end_time: 1728242966822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cfee013aca84ab0996b0f263d13d832
+run_name: brawny-cat-828
+run_uuid: 6cfee013aca84ab0996b0f263d13d832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728242956711
+status: 3
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/9ffe38784a1e45819f33d5daa7c5b34c/artifacts
+end_time: 1728529745903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ffe38784a1e45819f33d5daa7c5b34c
+run_name: dashing-foal-504
+run_uuid: 9ffe38784a1e45819f33d5daa7c5b34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728529695211
+status: 4
+tags: []
+user_id: bradk

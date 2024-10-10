@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/409e03a605d1445c96239cf9532f7d58/artifacts
+end_time: 1728530850610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 409e03a605d1445c96239cf9532f7d58
+run_name: unruly-hen-623
+run_uuid: 409e03a605d1445c96239cf9532f7d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530839952
+status: 4
+tags: []
+user_id: bradk

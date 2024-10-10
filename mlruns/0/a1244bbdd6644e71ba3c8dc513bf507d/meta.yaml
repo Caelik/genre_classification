@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/a1244bbdd6644e71ba3c8dc513bf507d/artifacts
+end_time: 1728242567929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1244bbdd6644e71ba3c8dc513bf507d
+run_name: delightful-moth-441
+run_uuid: a1244bbdd6644e71ba3c8dc513bf507d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728242558023
+status: 3
+tags: []
+user_id: bradk

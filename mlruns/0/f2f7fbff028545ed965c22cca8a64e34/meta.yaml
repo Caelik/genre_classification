@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/f2f7fbff028545ed965c22cca8a64e34/artifacts
+end_time: 1728240479947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2f7fbff028545ed965c22cca8a64e34
+run_name: abundant-duck-605
+run_uuid: f2f7fbff028545ed965c22cca8a64e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728240449747
+status: 4
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/ca080fa159704dfa86cc65682d0991ed/artifacts
+end_time: 1728530400818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca080fa159704dfa86cc65682d0991ed
+run_name: burly-croc-541
+run_uuid: ca080fa159704dfa86cc65682d0991ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530390565
+status: 4
+tags: []
+user_id: bradk

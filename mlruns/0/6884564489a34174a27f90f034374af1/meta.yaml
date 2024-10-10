@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/6884564489a34174a27f90f034374af1/artifacts
+end_time: 1728237985295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6884564489a34174a27f90f034374af1
+run_name: exultant-lamb-728
+run_uuid: 6884564489a34174a27f90f034374af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728237971894
+status: 4
+tags: []
+user_id: bradk

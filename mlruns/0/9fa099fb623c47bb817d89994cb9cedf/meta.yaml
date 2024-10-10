@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/9fa099fb623c47bb817d89994cb9cedf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fa099fb623c47bb817d89994cb9cedf
+run_name: chill-auk-634
+run_uuid: 9fa099fb623c47bb817d89994cb9cedf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238580193
+status: 1
+tags: []
+user_id: bradk

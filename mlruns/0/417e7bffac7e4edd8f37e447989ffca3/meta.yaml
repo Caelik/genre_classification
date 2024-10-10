@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/417e7bffac7e4edd8f37e447989ffca3/artifacts
+end_time: 1728260705663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 417e7bffac7e4edd8f37e447989ffca3
+run_name: charming-crow-575
+run_uuid: 417e7bffac7e4edd8f37e447989ffca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728260694658
+status: 3
+tags: []
+user_id: bradk

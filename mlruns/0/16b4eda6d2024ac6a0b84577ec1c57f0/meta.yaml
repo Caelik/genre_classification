@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/16b4eda6d2024ac6a0b84577ec1c57f0/artifacts
+end_time: 1728530582891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b4eda6d2024ac6a0b84577ec1c57f0
+run_name: ambitious-conch-694
+run_uuid: 16b4eda6d2024ac6a0b84577ec1c57f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530572601
+status: 4
+tags: []
+user_id: bradk

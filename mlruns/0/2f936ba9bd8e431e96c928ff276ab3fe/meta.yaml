@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/2f936ba9bd8e431e96c928ff276ab3fe/artifacts
+end_time: 1728240695022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f936ba9bd8e431e96c928ff276ab3fe
+run_name: auspicious-cat-981
+run_uuid: 2f936ba9bd8e431e96c928ff276ab3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728240694249
+status: 4
+tags: []
+user_id: bradk

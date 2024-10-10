@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/2149937eaa0448d39b2917e9cfec807f/artifacts
+end_time: 1728238203467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2149937eaa0448d39b2917e9cfec807f
+run_name: honorable-lynx-301
+run_uuid: 2149937eaa0448d39b2917e9cfec807f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238202680
+status: 4
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/246db69769c548bf8667602c7ce671ff/artifacts
+end_time: 1728238138638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 246db69769c548bf8667602c7ce671ff
+run_name: resilient-shad-217
+run_uuid: 246db69769c548bf8667602c7ce671ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238137800
+status: 4
+tags: []
+user_id: bradk

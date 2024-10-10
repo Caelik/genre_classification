@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/36ebde89820b413d8b771e69c4f29374/artifacts
+end_time: 1728242568015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ebde89820b413d8b771e69c4f29374
+run_name: bouncy-grub-396
+run_uuid: 36ebde89820b413d8b771e69c4f29374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728242530378
+status: 4
+tags: []
+user_id: bradk

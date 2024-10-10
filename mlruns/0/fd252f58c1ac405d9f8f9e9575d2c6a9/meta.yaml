@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/fd252f58c1ac405d9f8f9e9575d2c6a9/artifacts
+end_time: 1728237951176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd252f58c1ac405d9f8f9e9575d2c6a9
+run_name: bedecked-mole-595
+run_uuid: fd252f58c1ac405d9f8f9e9575d2c6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728237930066
+status: 4
+tags: []
+user_id: bradk

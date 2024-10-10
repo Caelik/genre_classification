@@ -1,0 +1,217 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.12.7",
+    "heartbeatAt": "2024-10-10T03:08:57.933619",
+    "startedAt": "2024-10-10T03:08:57.478897",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/home/bradk/miniconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Caelik/genre_classification.git",
+        "commit": "3470b6b7a5f2a1670f459753ffc2b8140dbd2f80"
+    },
+    "email": "bradkessenich@gmail.com",
+    "root": "/home/bradk/genre_classification",
+    "host": "Brads-PC",
+    "username": "bradk",
+    "executable": "/home/bradk/miniconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/python3.12",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3187.202000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.202,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 32.937984466552734
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 24146608128
+        }
+    ],
+    "memory": {
+        "total": 31.26349639892578
+    }
+}

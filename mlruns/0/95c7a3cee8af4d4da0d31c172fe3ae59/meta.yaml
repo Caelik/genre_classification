@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/95c7a3cee8af4d4da0d31c172fe3ae59/artifacts
+end_time: 1728530247452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c7a3cee8af4d4da0d31c172fe3ae59
+run_name: traveling-boar-323
+run_uuid: 95c7a3cee8af4d4da0d31c172fe3ae59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530217595
+status: 4
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/32506374732e4209b086ed429b9b36af/artifacts
+end_time: 1728530383228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32506374732e4209b086ed429b9b36af
+run_name: rogue-calf-536
+run_uuid: 32506374732e4209b086ed429b9b36af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530372963
+status: 3
+tags: []
+user_id: bradk

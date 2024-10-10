@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/0384cfb3897e4516b2c50e18351ca31f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0384cfb3897e4516b2c50e18351ca31f
+run_name: bemused-mole-240
+run_uuid: 0384cfb3897e4516b2c50e18351ca31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728239911650
+status: 1
+tags: []
+user_id: bradk

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/b2638f37961d45d8afe04d0c04a029ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2638f37961d45d8afe04d0c04a029ce
+run_name: likeable-wasp-315
+run_uuid: b2638f37961d45d8afe04d0c04a029ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728239486255
+status: 1
+tags: []
+user_id: bradk

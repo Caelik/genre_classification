@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/78ad97c0c86a413289b0b59d184495a2/artifacts
+end_time: 1728242928051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78ad97c0c86a413289b0b59d184495a2
+run_name: illustrious-wolf-697
+run_uuid: 78ad97c0c86a413289b0b59d184495a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728242926903
+status: 4
+tags: []
+user_id: bradk

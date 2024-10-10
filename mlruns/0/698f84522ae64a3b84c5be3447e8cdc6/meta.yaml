@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/698f84522ae64a3b84c5be3447e8cdc6/artifacts
+end_time: 1728240879512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698f84522ae64a3b84c5be3447e8cdc6
+run_name: charming-midge-58
+run_uuid: 698f84522ae64a3b84c5be3447e8cdc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728240859215
+status: 3
+tags: []
+user_id: bradk

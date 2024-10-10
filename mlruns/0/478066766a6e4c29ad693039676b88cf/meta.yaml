@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/478066766a6e4c29ad693039676b88cf/artifacts
+end_time: 1728529663070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 478066766a6e4c29ad693039676b88cf
+run_name: agreeable-gull-327
+run_uuid: 478066766a6e4c29ad693039676b88cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728529661264
+status: 4
+tags: []
+user_id: bradk

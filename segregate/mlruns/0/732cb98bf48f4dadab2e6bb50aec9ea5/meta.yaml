@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/segregate/mlruns/0/732cb98bf48f4dadab2e6bb50aec9ea5/artifacts
+end_time: 1728532703081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 732cb98bf48f4dadab2e6bb50aec9ea5
+run_name: redolent-dolphin-427
+run_uuid: 732cb98bf48f4dadab2e6bb50aec9ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728532702133
+status: 4
+tags: []
+user_id: bradk

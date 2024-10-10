@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/fe13c69d9716418fb6cb93a18adbab8c/artifacts
+end_time: 1728530400938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe13c69d9716418fb6cb93a18adbab8c
+run_name: nebulous-frog-458
+run_uuid: fe13c69d9716418fb6cb93a18adbab8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530371152
+status: 4
+tags: []
+user_id: bradk

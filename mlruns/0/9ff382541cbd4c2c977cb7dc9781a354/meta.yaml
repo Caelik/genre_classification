@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/9ff382541cbd4c2c977cb7dc9781a354/artifacts
+end_time: 1728532723544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff382541cbd4c2c977cb7dc9781a354
+run_name: suave-owl-361
+run_uuid: 9ff382541cbd4c2c977cb7dc9781a354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728532713464
+status: 3
+tags: []
+user_id: bradk

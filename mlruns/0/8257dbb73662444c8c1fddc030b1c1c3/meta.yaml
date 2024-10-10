@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/8257dbb73662444c8c1fddc030b1c1c3/artifacts
+end_time: 1728530229566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8257dbb73662444c8c1fddc030b1c1c3
+run_name: serious-shrimp-894
+run_uuid: 8257dbb73662444c8c1fddc030b1c1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530219454
+status: 3
+tags: []
+user_id: bradk

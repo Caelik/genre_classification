@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/4686819b2032451db73334f6bd9f1dc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4686819b2032451db73334f6bd9f1dc4
+run_name: trusting-kite-886
+run_uuid: 4686819b2032451db73334f6bd9f1dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728239779737
+status: 1
+tags: []
+user_id: bradk

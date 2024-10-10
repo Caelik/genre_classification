@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/3621f054c6744ec49c9ff90f0f296f28/artifacts
+end_time: 1728531376981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3621f054c6744ec49c9ff90f0f296f28
+run_name: abundant-hen-948
+run_uuid: 3621f054c6744ec49c9ff90f0f296f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728531365325
+status: 4
+tags: []
+user_id: bradk

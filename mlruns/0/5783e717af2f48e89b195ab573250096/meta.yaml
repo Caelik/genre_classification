@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/5783e717af2f48e89b195ab573250096/artifacts
+end_time: 1728532741614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5783e717af2f48e89b195ab573250096
+run_name: intrigued-hawk-936
+run_uuid: 5783e717af2f48e89b195ab573250096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728532711641
+status: 4
+tags: []
+user_id: bradk

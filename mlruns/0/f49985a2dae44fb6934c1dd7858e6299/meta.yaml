@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/f49985a2dae44fb6934c1dd7858e6299/artifacts
+end_time: 1728238348142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f49985a2dae44fb6934c1dd7858e6299
+run_name: bold-finch-969
+run_uuid: f49985a2dae44fb6934c1dd7858e6299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238347330
+status: 4
+tags: []
+user_id: bradk

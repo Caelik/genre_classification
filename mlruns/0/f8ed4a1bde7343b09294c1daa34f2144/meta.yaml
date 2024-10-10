@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/f8ed4a1bde7343b09294c1daa34f2144/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8ed4a1bde7343b09294c1daa34f2144
+run_name: judicious-lynx-799
+run_uuid: f8ed4a1bde7343b09294c1daa34f2144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238867347
+status: 1
+tags: []
+user_id: bradk

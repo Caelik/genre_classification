@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/02fd90e07b494635a826e5de792933d3/artifacts
+end_time: 1728526707359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02fd90e07b494635a826e5de792933d3
+run_name: adventurous-tern-458
+run_uuid: 02fd90e07b494635a826e5de792933d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728526705980
+status: 4
+tags: []
+user_id: bradk

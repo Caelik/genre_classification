@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/3e9930923fe14371838f71cb1c83783b/artifacts
+end_time: 1728530390560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e9930923fe14371838f71cb1c83783b
+run_name: serious-asp-896
+run_uuid: 3e9930923fe14371838f71cb1c83783b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530383233
+status: 3
+tags: []
+user_id: bradk

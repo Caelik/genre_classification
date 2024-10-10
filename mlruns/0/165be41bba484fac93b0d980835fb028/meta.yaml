@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/165be41bba484fac93b0d980835fb028/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 165be41bba484fac93b0d980835fb028
+run_name: blushing-hawk-752
+run_uuid: 165be41bba484fac93b0d980835fb028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728238925670
+status: 1
+tags: []
+user_id: bradk

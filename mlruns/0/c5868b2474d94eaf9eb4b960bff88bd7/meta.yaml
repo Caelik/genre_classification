@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/c5868b2474d94eaf9eb4b960bff88bd7/artifacts
+end_time: 1728240353847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5868b2474d94eaf9eb4b960bff88bd7
+run_name: respected-hound-600
+run_uuid: c5868b2474d94eaf9eb4b960bff88bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728240330824
+status: 4
+tags: []
+user_id: bradk

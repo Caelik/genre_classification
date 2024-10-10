@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/4845e2b7b2f649eea53bda203b766b04/artifacts
+end_time: 1728530954264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4845e2b7b2f649eea53bda203b766b04
+run_name: rogue-pig-952
+run_uuid: 4845e2b7b2f649eea53bda203b766b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530942562
+status: 4
+tags: []
+user_id: bradk

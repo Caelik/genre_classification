@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/cb560ec8b7f548aeac87600b19d143b1/artifacts
+end_time: 1728532731042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb560ec8b7f548aeac87600b19d143b1
+run_name: adorable-mole-424
+run_uuid: cb560ec8b7f548aeac87600b19d143b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728532723549
+status: 3
+tags: []
+user_id: bradk

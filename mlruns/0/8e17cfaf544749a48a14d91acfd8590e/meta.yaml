@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/8e17cfaf544749a48a14d91acfd8590e/artifacts
+end_time: 1728240879602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e17cfaf544749a48a14d91acfd8590e
+run_name: incongruous-fowl-360
+run_uuid: 8e17cfaf544749a48a14d91acfd8590e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728240857506
+status: 4
+tags: []
+user_id: bradk

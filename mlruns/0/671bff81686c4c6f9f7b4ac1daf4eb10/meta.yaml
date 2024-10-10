@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/671bff81686c4c6f9f7b4ac1daf4eb10/artifacts
+end_time: 1728530237014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 671bff81686c4c6f9f7b4ac1daf4eb10
+run_name: brawny-dolphin-339
+run_uuid: 671bff81686c4c6f9f7b4ac1daf4eb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530229571
+status: 3
+tags: []
+user_id: bradk

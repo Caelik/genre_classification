@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bradk/genre_classification/mlruns/0/b104cbabdf9a42d3879a9e21aaa5d8bc/artifacts
+end_time: 1728260705752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b104cbabdf9a42d3879a9e21aaa5d8bc
+run_name: traveling-cub-766
+run_uuid: b104cbabdf9a42d3879a9e21aaa5d8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728260692955
+status: 4
+tags: []
+user_id: bradk
